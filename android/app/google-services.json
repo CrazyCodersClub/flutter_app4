@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "869317025217",
+    "firebase_url": "https://newsapppushdemo.firebaseio.com",
+    "project_id": "newsapppushdemo",
+    "storage_bucket": "newsapppushdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869317025217:android:072b48f3c7cbda3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSg_VCXkL1YPZ1opcH4XSIxyNFWD8CJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869317025217:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSg_VCXkL1YPZ1opcH4XSIxyNFWD8CJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869317025217:android:68d58280155c202f",
+        "android_client_info": {
+          "package_name": "newsappdemo.com.ccc.newsappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSg_VCXkL1YPZ1opcH4XSIxyNFWD8CJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869317025217-fc5ee79lnrscuun9bj4ghgsi8oj18u7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
